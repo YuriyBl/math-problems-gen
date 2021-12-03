@@ -1,0 +1,10 @@
+data==0.4
+decorator==5.1.0
+funcsigs==1.0.2
+future==0.18.2
+latex==0.7.0
+mpmath==1.2.1
+shutilwhich==1.1.0
+six==1.16.0
+sympy==1.9
+tempdir==0.7.1
